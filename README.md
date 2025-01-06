@@ -20,10 +20,10 @@ The purpose of this project is to analyze and visualize COVID-19 data on a globa
 1- **Interactive World Map:** A visual representation of COVID-19 cases distributed by country with markers indicating case densities.
 - 
 2- **Bar Chart by Continent:** Aggregated total cases per continent for comparative analysis.
-- 
-3- **Country-Specific Details:** A table showing the number of cases for each country.
-- 
-4- **High-Level Metrics:** Total global cases and deaths presented as highlighted KPIs for quick insights.
+-
+3-**Country-Specific Details:** A table showing the number of cases for each country.
+
+4-**High-Level Metrics:** Total global cases and deaths presented as highlighted KPIs for quick insights.
 
 ---
 
