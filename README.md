@@ -1,4 +1,4 @@
-# SUM OF Total Cases By CORONA Continent Dashboard (Power BI)
+#  Cases CORONA Analytics
 
 ## Purpose
 The purpose of this project is to analyze and visualize COVID-19 data on a global scale to understand the distribution of total cases across different countries and continents. This interactive dashboard was created using Power BI to enable efficient data exploration, provide key insights into the pandemic, and facilitate decision-making for stakeholders.
@@ -6,45 +6,45 @@ The purpose of this project is to analyze and visualize COVID-19 data on a globa
 ---
 
 ## Objectives
-1. **Understand the Global Spread:** Explore the distribution of COVID-19 cases across countries and continents.
+1- **Understand the Global Spread:** Explore the distribution of COVID-19 cases across countries and continents.
    
-2. **Identify Regional Trends:** Compare the impact of the pandemic by continent to uncover regional trends.
+2- **Identify Regional Trends:** Compare the impact of the pandemic by continent to uncover regional trends.
  
-3. **Communicate Data Insights:** Present data through interactive visualizations for a clearer understanding of the global impact.
+3- **Communicate Data Insights:** Present data through interactive visualizations for a clearer understanding of the global impact.
  
-4. **Provide Actionable Insights:** Support informed decision-making by presenting consolidated and detailed data metrics.
+4- **Provide Actionable Insights:** Support informed decision-making by presenting consolidated and detailed data metrics.
 
 ---
 
 ## Key Features
-- **Interactive World Map:** A visual representation of COVID-19 cases distributed by country with markers indicating case densities.
+1- **Interactive World Map:** A visual representation of COVID-19 cases distributed by country with markers indicating case densities.
 - 
-- **Bar Chart by Continent:** Aggregated total cases per continent for comparative analysis.
+2- **Bar Chart by Continent:** Aggregated total cases per continent for comparative analysis.
 - 
-- **Country-Specific Details:** A table showing the number of cases for each country.
+3- **Country-Specific Details:** A table showing the number of cases for each country.
 - 
-- **High-Level Metrics:** Total global cases and deaths presented as highlighted KPIs for quick insights.
+4- **High-Level Metrics:** Total global cases and deaths presented as highlighted KPIs for quick insights.
 
 ---
 
 ## Target Benefits
-- **Enhanced Understanding:** A clearer view of COVID-19's global and regional impact.
+1- **Enhanced Understanding:** A clearer view of COVID-19's global and regional impact.
 - 
-- **Decision Support:** Insights can assist health organizations and policymakers in resource allocation.
+2- **Decision Support:** Insights can assist health organizations and policymakers in resource allocation.
 - 
-- **Data Transparency:** Provides a visual and interactive way to communicate complex data.
+3- **Data Transparency:** Provides a visual and interactive way to communicate complex data.
 
 ---
 
 ## Methodology
 ### Data Preparation:
 - **Data Cleaning:**
-  - Removed inconsistencies and missing values from raw COVID-19 datasets.
+ 1 - Removed inconsistencies and missing values from raw COVID-19 datasets.
     
-  - Ensured all numerical fields (e.g., total cases, deaths) were correctly formatted.
+ 2- Ensured all numerical fields (e.g., total cases, deaths) were correctly formatted.
 
 - **Data Transformation:**
-  - Aggregated data at the country and continent levels.
+ - Aggregated data at the country and continent levels.
   - 
   - Standardized geographic information for map visualizations.
 
