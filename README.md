@@ -6,20 +6,20 @@ The purpose of this project is to analyze and visualize COVID-19 data on a globa
 ---
 
 ## Objectives
-1- **Understand the Global Spread:** Explore the distribution of COVID-19 cases across countries and continents.
+- **Understand the Global Spread:** Explore the distribution of COVID-19 cases across countries and continents.
    
-2- **Identify Regional Trends:** Compare the impact of the pandemic by continent to uncover regional trends.
+- **Identify Regional Trends:** Compare the impact of the pandemic by continent to uncover regional trends.
  
-3- **Communicate Data Insights:** Present data through interactive visualizations for a clearer understanding of the global impact.
+- **Communicate Data Insights:** Present data through interactive visualizations for a clearer understanding of the global impact.
  
-4- **Provide Actionable Insights:** Support informed decision-making by presenting consolidated and detailed data metrics.
+- **Provide Actionable Insights:** Support informed decision-making by presenting consolidated and detailed data metrics.
 
 ---
 
 ## Key Features
 - **Interactive World Map:** A visual representation of COVID-19 cases distributed by country with markers indicating case densities.
 - 
- -**Bar Chart by Continent:** Aggregated total cases per continent for comparative analysis.
+- **Bar Chart by Continent:** Aggregated total cases per continent for comparative analysis.
 -
 - **Country-Specific Details:** A table showing the number of cases for each country.
 
